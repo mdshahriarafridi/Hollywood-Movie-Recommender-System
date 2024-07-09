@@ -1,6 +1,6 @@
 # Hollywood Movie Recommender System
 
-This is a Machine Learning Project based on 'Cosine Similarity'. I have done the entire project by using Python Programming Language. IDE used in this Project is Jupyter Notebook and Pycharm. 
+This Project is based on 'Cosine Similarity'. I have done the entire project by using Python Programming Language. IDE used in this Project is Jupyter Notebook and Pycharm. 
 
 ## Project Output
 ### Output 1: 
